@@ -41,6 +41,7 @@ button {
     border-bottom: 1px solid #B0B0B0;
     background-color: #EEEEEE;
     padding: 18px 50px;
+    width: 100%;
 }
 
 .logo {
@@ -82,6 +83,7 @@ button {
     padding: 100px 150px;
     display: flex;
     justify-content: space-between;
+    width: 86%;
 }
 
 .home img {
@@ -177,6 +179,7 @@ button {
 .order {
     height: 600px;
     background-image: url('./images/1.png');
+    width: 107%;
 }
 
 .container {
@@ -299,7 +302,7 @@ button {
 /* footer */
 
 .footer {
-    width: 100%;
+    width: 102%;
     color: #787878;
     border-top: solid 1px #B0B0B0;
     background-color: #EEEEEE;
