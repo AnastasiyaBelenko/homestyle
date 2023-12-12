@@ -75,6 +75,7 @@ button {
 
 .home {
     height: 657px;
+    width: 106%;
 }
 
 .home .content {
@@ -83,7 +84,6 @@ button {
     padding: 100px 150px;
     display: flex;
     justify-content: space-between;
-    width: 86%;
 }
 
 .home img {
